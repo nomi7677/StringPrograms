@@ -5,3 +5,4 @@
 # WAP to print the duplicate characters in a String.
 # WAP to sort a String alphabetically.
 # WAP to count vowels and consonants in a String.
+# WAP to count the special characters in a String.
